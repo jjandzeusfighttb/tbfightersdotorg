@@ -744,7 +744,7 @@ h2.action-head {
 		padding: 0.33em;
 	}
 	.video-embed {
-		max-width: 100%;
+		width: 100%;
 		left: 0;
 		height: auto;
 	}
