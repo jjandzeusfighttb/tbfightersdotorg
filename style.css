@@ -745,7 +745,7 @@ h2.action-head {
 	}
 	.video-embed {
 		width: 100%;
-		height: auto;
+		padding-bottom: 56.25%;
 	}
 	.list-form.wrapper-columns {
 		flex-direction: row;
