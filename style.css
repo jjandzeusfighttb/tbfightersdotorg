@@ -743,6 +743,9 @@ h2.action-head {
 		max-width: 100%;
 		padding: 0.33em;
 	}
+	.video-embed {
+		max-width: 100%;
+	}
 	.list-form.wrapper-columns {
 		flex-direction: row;
 		gap: .6em;
@@ -801,10 +804,6 @@ h2.action-head {
 	}
 	.featured-columns {
 		margin-bottom: 1.5em;
-	}
-	.video-embed {
-		width: 336px;
-		height: 186px;
 	}
 	a[target="_blank"]:not(:has(img))::after {
 		height: 8px;
